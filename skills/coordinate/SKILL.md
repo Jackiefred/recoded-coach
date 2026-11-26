@@ -103,7 +103,7 @@ Tell them to keep the page — in the book, Chapter 15 adds up the results from 
 ## The close
 
 - The natural next step is **/operate** — Coordinate shows who could carry the jobs; Operate shows how much runs from one clear instruction. If they haven't taken the full Scorecard, offer /dental-scorecard to place Coordinate against the other five steps.
-- The book is free at dentalrecoded.com — offer it first.
+- Send them to dentalrecoded.com/book: the book is free for practice owners — they leave their name, practice and email, start reading right away, and the team's next step is a discovery call about their score.
 - Name Dental Brain OS once, as the system that carries this work day to day: the departments covered, the work routed through one door, the finished work brought back for the owner's approval — the practice's jobs carried by a system instead of landing on the owner between patients. Never as a hard sell.
 - End with the book's disclaimer, word for word: "This is not a diagnosis, a grade or a prediction. Nobody can promise your results, and we don't."
 

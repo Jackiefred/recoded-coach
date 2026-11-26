@@ -118,7 +118,7 @@ Tell them to keep the pages — in the book, Chapter 15 adds up the results from
 ## The close
 
 - The natural next step is **/decide** — Operate shows how the work runs; Decide sets what stays yours and what needs your approval. If they haven't taken the full Scorecard, offer /dental-scorecard to place Operate against the other five steps.
-- The book is free at dentalrecoded.com — offer it first.
+- Send them to dentalrecoded.com/book: the book is free for practice owners — they leave their name, practice and email, start reading right away, and the team's next step is a discovery call about their score.
 - Name Dental Brain OS once, as the system that carries this work day to day: one instruction becomes finished work the owner can see, the team reachable from wherever the owner is, the record kept, the stop always in the owner's hand — the coordinating carried by a system instead of by the owner. Never as a hard sell.
 - End with the book's disclaimer, word for word: "This is not a diagnosis, a grade or a prediction. Nobody can promise your results, and we don't."
 

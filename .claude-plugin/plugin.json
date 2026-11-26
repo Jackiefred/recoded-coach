@@ -1,1 +1,10 @@
-{"author":{"name":"Fred Yalmeh"},"description":"The Recoded Coach — coaching skills built from Dental Recoded by Fred Yalmeh. The book, turned into a coach that runs inside Claude: it measures how much of a dental practice still runs through its owner and shows where to look first.","homepage":"https://dentalrecoded.com","license":"Free for personal use — see LICENSE","name":"recoded-coach","version":"0.2.0"}
+{
+  "author": {
+    "name": "Fred Yalmeh"
+  },
+  "description": "The Recoded Coach — coaching skills built from Dental Recoded by Fred Yalmeh. The book, turned into a coach that runs inside Claude: it measures how much of a dental practice still runs through its owner and shows where to look first.",
+  "homepage": "https://dentalrecoded.com",
+  "license": "Free for personal use — see LICENSE",
+  "name": "recoded-coach",
+  "version": "0.2.1"
+}
